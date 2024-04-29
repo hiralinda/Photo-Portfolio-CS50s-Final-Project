@@ -1,0 +1,4 @@
+# PHOTO PORTIFOLIO WEBPAGE
+#### Video Demo:  <URL HERE>
+#### Description:
+The webpage was developed with Python using the Flask framework and incorporating Bootstrap. It offers a dynamic photography portfolio. SCSS is employed for styling, ensuring a polished appearance. Key features include a responsive navbar for intuitive navigation and a header section for impactful visuals. The gallery utilizes Bootstrap's modal functionality for seamless image browsing, complemented by responsive design for cross-device compatibility. Social media icons and dark mode further enhance user experience. Additionally, JavaScript was utilized to enhance interactivity, such as implementing smooth scrolling effects and dynamic content loading. Admin capabilities, facilitated by login/logout mechanisms, include picture management (uploading and deleting) for streamlined content control.

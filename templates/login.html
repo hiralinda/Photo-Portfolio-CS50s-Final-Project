@@ -1,0 +1,47 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Log In
+{% endblock %}
+
+{% block main %}
+
+<nav id="navbar" class="navbar navbar-expand-lg navbar-light fixed-top">
+    <div class="container">
+        <a class="navbar-brand">Beach Photos Portfolio</a>
+        <div class="ml-auto">
+            
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Main page</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section style="padding-top: 100px; padding-bottom: 50px;">
+    <div class="container">
+    <form action="/login" method="post">
+        <div class="mb-3">
+            <input autocomplete="off" autofocus class="form-control mx-auto w-auto" name="username" placeholder="Username" type="text">
+        </div>
+        <div class="mb-3">
+            <input class="form-control mx-auto w-auto" name="password" placeholder="Password" type="password">
+        </div>
+
+    
+        {% if message %}
+            <div class="alert alert-primary mb-2 text-center" role="alert">
+                {{ message }}
+            </div>
+        {% endif %}
+
+        <button class="btn btn-primary" type="submit">Log In</button>
+    </form>
+</div>
+</section>
+<script src="static/login.js"></script>
+{% endblock %}
