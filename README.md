@@ -1,10 +1,12 @@
-# PHOTO PORTFOLIO WEBPAGE
-#### Video Demo:  <[https://youtu.be/LJGeUmB_FXk]>
-#### Description:
+# Photo Portifolio Webpage
 
-Welcome to the project! This sleek and user-friendly interface is designed to showcase dynamic photography portfolios. Developed using Python with the Flask framework and incorporating Bootstrap for styling, this project offers an engaging experience for both photographers and viewers. The webpage features a responsive navbar for intuitive navigation, a header section for impactful visuals, and a gallery with Bootstrap's modal functionality for seamless image browsing. SCSS ensures a polished appearance across different devices, complemented by a dark mode feature for enhanced viewing experience. Additionally, JavaScript enhances interactivity, and pictures are stored on a database for streamlined content management.
+This sleek and user-friendly interface is designed to showcase dynamic photography portfolios. Developed using Python with the Flask framework and incorporating Bootstrap for styling, this project offers an engaging experience for both photographers and viewers. The webpage features a responsive navbar for intuitive navigation, a header section for impactful visuals, and a gallery with Bootstrap's modal functionality for seamless image browsing. SCSS ensures a polished appearance across different devices, complemented by a dark mode feature for enhanced viewing experience. Additionally, JavaScript enhances interactivity, and pictures are stored on a database for streamlined content management. [This project](https://cs50.harvard.edu/x/2024/project/) was the Final Project for the CS50’s Introduction to Computer Science course.
 
-### File Structure
+## Video Preview
+
+[Video Link](https://youtu.be/LJGeUmB_FXk)
+
+## File Structure
 
 - **app.py**: This file contains the main Flask application code, including route definitions and database interactions.
 - **instance/**: This directory contains sensitive configuration files, such as the database file.
@@ -43,3 +45,7 @@ Admin capabilities are facilitated by a login/logout mechanism, allowing authent
 The Photography Portfolio Webpage offers photographers a powerful platform to showcase their work while providing viewers with an engaging and visually appealing experience. With its responsive design, intuitive navigation, and admin capabilities, this project demonstrates the potential of web development tools and frameworks to create dynamic and impactful websites.
 
 Thank you for exploring my project! I hope you enjoy browsing through the photography portfolios showcased on this webpage. If you have any feedback or questions, please feel free to reach out.
+
+---
+
+*[This project](https://cs50.harvard.edu/x/2024/project/) was the Final Project for the CS50’s Introduction to Computer Science course.*
