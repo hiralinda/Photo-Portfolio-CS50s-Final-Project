@@ -34,7 +34,7 @@ Bootstrap was utilized for its responsive grid system and pre-designed component
 SCSS was chosen for styling to maintain code readability, organization and dark mode feature. Its features such as variables, nesting, and mixins facilitate the creation of modular and maintainable stylesheets, resulting in a polished appearance for the webpage.
 
 #### JavaScript
-JavaScript was employed to enhance interactivity and user experience. Smooth scrolling effects were implemented to improve navigation, while dynamic content loading enhances the responsiveness of the webpage. Additionally, JavaScript was used for client-side validation and to facilitate admin functionalities such as picture management.
+JavaScript was employed to enhance interactivity and user experience. Smooth scrolling effects were implemented to improve navigation, while dynamic content loading enhances the responsiveness of the webpage. Additionally, JavaScript was used for client-side validation, to facilitate admin functionalities such as picture management and to set up the darkmode feature.
 
 ### Admin Capabilities
 
