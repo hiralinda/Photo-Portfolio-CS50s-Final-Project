@@ -2,7 +2,7 @@
 #### Video Demo:  <[https://youtu.be/LJGeUmB_FXk]>
 #### Description:
 
-Welcome to the Photography Portfolio Webpage project! This sleek and user-friendly interface is designed to showcase dynamic photography portfolios. Developed using Python with the Flask framework and incorporating Bootstrap for styling, this project offers an engaging experience for both photographers and viewers. The webpage features a responsive navbar for intuitive navigation, a header section for impactful visuals, and a gallery with Bootstrap's modal functionality for seamless image browsing. SCSS ensures a polished appearance across different devices, complemented by a dark mode feature for enhanced viewing experience. Additionally, JavaScript enhances interactivity, and pictures are stored on a database for streamlined content management.
+Welcome to the project! This sleek and user-friendly interface is designed to showcase dynamic photography portfolios. Developed using Python with the Flask framework and incorporating Bootstrap for styling, this project offers an engaging experience for both photographers and viewers. The webpage features a responsive navbar for intuitive navigation, a header section for impactful visuals, and a gallery with Bootstrap's modal functionality for seamless image browsing. SCSS ensures a polished appearance across different devices, complemented by a dark mode feature for enhanced viewing experience. Additionally, JavaScript enhances interactivity, and pictures are stored on a database for streamlined content management.
 
 ### File Structure
 

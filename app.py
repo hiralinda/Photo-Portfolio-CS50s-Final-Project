@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, send_file, jsonify, session, redirect
 from flask_sqlalchemy import SQLAlchemy
 import io
-from werkzeug.security import check_password_hash, generate_password_hash
+from werkzeug.security import check_password_hash
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///db.sqlite3'
